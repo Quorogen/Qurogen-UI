@@ -22,7 +22,7 @@ export const Demo = () => {
               </Card.Description>
             </Card.Body>
             <Card.Footer justifyContent="flex-end">
-              <Button variant="outline">View</Button>
+              <Button variant="outline">View all</Button>
               <Button>Join</Button>
             </Card.Footer>
           </Card.Root>
